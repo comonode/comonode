@@ -31,17 +31,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
   </div>
 </div>
 
-<table width="350px" align="center">
-    <tbody>
-        <tr valign="top">
-            <td width="130px" align="center">
-            <span><strong>Chain 4 Energy</strong></span><br><br />
-            <a href="" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://comonode.org/projeler/c4e.png">
-            </td>
-        </tr>
-    </tbody>
-</table>
+
 
 
 <div align="center">
@@ -54,9 +44,9 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>Sei</strong></span><br><br />
+            <span><strong>Ollo</strong></span><br><br />
             <a href="" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/sei.png"> </a>
+            <img height="40px" src="https://comonode.org/t/ollo/ollo.png"> </a>
             </td>
 
 
