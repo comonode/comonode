@@ -83,7 +83,6 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
     <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=comonode&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
 <br />
 <br />
-   <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comonode&layout=compact&theme=nightowl"/>
   </div>
 </div>
 
